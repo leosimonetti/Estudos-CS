@@ -230,5 +230,12 @@ namespace Estudos
             docSpire.SaveToFile(@"C:\TEMP\Teste6.docx");
             
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            int testeGit;
+            testeGit = 1;
+
+        }
     }
 }
