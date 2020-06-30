@@ -236,6 +236,8 @@ namespace Estudos
             int testeGit;
             testeGit = 1;
 
+            richTextBox1.Text = testeGit.ToString();
+
         }
     }
 }
