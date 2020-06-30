@@ -237,7 +237,7 @@ namespace Estudos
             testeGit = 1;
 
             richTextBox1.Text = testeGit.ToString();
-
+            richTextBox2.Text = "Teste de atualização no GitHub";
         }
     }
 }
